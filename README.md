@@ -30,8 +30,7 @@
 1. **เปิด XAMPP Control Panel**  (หากไม่มี  [ติดตั้ง Xampp ที่นี่](https://www.apachefriends.org/download.html))
 2.   กด  **Start**  ที่  `Apache`  และ  `MySQL`
 3.   เปิดเบราว์เซอร์ของคุณและไปที่:  [http://localhost/computer_shop/](http://localhost/computer_shop/)
-4.   เปิดเบราว์เซอร์ของคุณและไปที่(หน้าแอดมิน): [http://localhost/computer_shop/admin/login.php](http://localhost/computer_shop/admin/login.php) ) 
-
+4.   เปิดเบราว์เซอร์ของคุณและไปที่(หน้าแอดมิน): [[http://localhost/computer_shop/admin/login.php](http://localhost/computer_shop/admin/login.php)]
 ## 🛍️ ฟีเจอร์ระบบ
 
 ### หน้าร้าน (Frontend)
